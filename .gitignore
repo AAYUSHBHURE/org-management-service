@@ -24,8 +24,12 @@ build/
 *.swp
 *.swo
 
-# MongoDB
+# MongoDB local data
 mongodb_dist/
+
+# Deployment artifacts
+*.zip
+create_eb_zip.py
 *.db
 
 # Logs
