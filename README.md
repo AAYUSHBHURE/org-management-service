@@ -200,17 +200,6 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for more deployment options.
 
 ---
 
-## 💰 Cost Estimate
-
-**AWS Elastic Beanstalk:**
-| Component | Cost |
-|-----------|------|
-| EC2 t2.micro | $0/month (first 12 months, free tier) |
-| After free tier | ~$8-12/month |
-| MongoDB Atlas M0 | $0/month (forever free) |
-| **Total** | **$0-12/month** |
-
----
 
 ## 🔐 Security Features
 
@@ -292,32 +281,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-## 🙋 Support
-
-For issues and questions:
-- **GitHub Issues**: [Create an issue](https://github.com/AAYUSHBHURE/org-management-service/issues)
-- **API Documentation**: [Check the docs](http://org-management-service-env-2.eba-fkzsvws8.ap-south-1.elasticbeanstalk.com/docs)
-
----
-
-## 🎯 Roadmap
-
-- [ ] Add unit and integration tests
-- [ ] Implement rate limiting
-- [ ] Add API versioning
-- [ ] Set up CI/CD pipeline
-- [ ] Add custom domain with HTTPS
-- [ ] Implement caching layer (Redis)
-- [ ] Add monitoring and alerting
-- [ ] Create admin dashboard UI
-
----
-
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you!
-
----
-
-**Built with ❤️ using FastAPI and deployed on AWS**
